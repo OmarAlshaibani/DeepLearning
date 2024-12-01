@@ -1,0 +1,12 @@
+# Path to the dataset root directory 
+path: C:/Desktop/pythonProject/DL/Eye_Project/Drone
+
+# Paths to training and validation image folders
+train: C:/Desktop/pythonProject/DL/Eye_Project/Drone/train/images
+val: C:/Desktop/pythonProject/DL/Eye_Project/Drone/valid/images
+
+# Number of classes in the dataset
+nc: 1  
+
+# class names
+names: ['drone']
